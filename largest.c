@@ -1,7 +1,7 @@
 #include <stdio.h>
 void main()
 {
-    char a,b,c;
+    int a,b,c;
     scanf("%d%d%d",&a,&b,&c);
 
     if( a>b)
@@ -16,6 +16,6 @@ void main()
 	}
     else if(b>c)
         printf("%d",b);
-			else{
+			else
 				printf("%d",c);
 }

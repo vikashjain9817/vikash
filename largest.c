@@ -16,6 +16,6 @@ void main()
 	}
     else if(b>c)
         printf("%d",b);
-			else{
+			else
 				printf("%d",c);
 }

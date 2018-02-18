@@ -2,7 +2,7 @@
 #include<string.h>
 void main()
 {
-    char a[100],b[100];
+    char a[10000000],b[10000000];
     int i,j,c=0;
     gets(a);
     gets(b);
